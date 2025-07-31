@@ -1,6 +1,6 @@
 # 📝 To-Do App - Internshala Project
 
-A simple and visually appealing **To-Do List** application built with **React.js** as part of the Internshala Full Stack Development course. The app allows users to add, delete, and mark tasks as completed with an intuitive and clean user interface.
+A simple and visually appealing **To-Do List** application built with **React.js**. The app allows users to add, delete, and mark tasks as completed with an intuitive and clean user interface.
 
 ---
 
